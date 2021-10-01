@@ -1,4 +1,3 @@
-# > myVideo
-USER-AGENT,myVideo*,myVideo
-DOMAIN-SUFFIX,myvideo.net.tw,myVideo
-DOMAIN-SUFFIX,catch.net.tw,myVideo
+# > HKDTMB
+USER-AGENT,HKDTMB*,HKDTMB
+DOMAIN-SUFFIX,hkdtmb.com

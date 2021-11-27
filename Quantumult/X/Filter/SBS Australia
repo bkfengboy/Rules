@@ -1,0 +1,5 @@
+# > SBS
+USER-AGENT,SBS*,SBS
+DOMAIN,sbs.com.au,SBS
+DOMAIN,videocdn-sbs.akamaized.net,SBS
+DOMAIN,sbsvoddai-vh.akamaihd.net,SBS

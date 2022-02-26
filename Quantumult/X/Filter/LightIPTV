@@ -1,20 +1,2 @@
 # > LightIPTV
-DOMAIN,gb1light.pp.ru,LightIPTV
-DOMAIN,gb2light.pp.ru,LightIPTV
-DOMAIN,gb3light.pp.ru,LightIPTV
-DOMAIN,gb4light.pp.ru,LightIPTV
-DOMAIN,gb5light.pp.ru,LightIPTV
-DOMAIN,gb6light.pp.ru,LightIPTV
-DOMAIN,gb7light.pp.ru,LightIPTV
-DOMAIN,gb8light.pp.ru,LightIPTV
-DOMAIN,gb9light.pp.ru,LightIPTV
-DOMAIN,gb10light.pp.ru,LightIPTV
-DOMAIN,gb11light.pp.ru,LightIPTV
-DOMAIN,gb12light.pp.ru,LightIPTV
-DOMAIN,gb13light.pp.ru,LightIPTV
-DOMAIN,gb14light.pp.ru,LightIPTV
-DOMAIN,gb15light.pp.ru,LightIPTV
-DOMAIN,gb16light.pp.ru,LightIPTV
-DOMAIN,gb17light.pp.ru,LightIPTV
-DOMAIN,gb18light.pp.ru,LightIPTV
-DOMAIN,gb19light.pp.ru,LightIPTV
+DOMAIN-SUFFIX,pp.ru,LightIPTV

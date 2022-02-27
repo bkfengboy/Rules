@@ -12,10 +12,10 @@ IP-CIDR,77.72.23.0/24,ilook.tv
 IP-CIDR,92.119.88.0/24,ilook.tv
 IP-CIDR,92.119.89.0/24,ilook.tv
 IP-CIDR,93.189.56.0/24,ilook.tv
-DOMAIN-SUFFIX,akciatv.ru
-DOMAIN-SUFFIX,russtv.net
-DOMAIN-SUFFIX,zatikov.net
-DOMAIN-KEYWORD,russtv
+DOMAIN-SUFFIX,akciatv.ru,ilook.tv
+DOMAIN-SUFFIX,russtv.net,ilook.tv
+DOMAIN-SUFFIX,zatikov.net,ilook.tv
+DOMAIN-KEYWORD,russtv,ilook.tv
 
 # > bil.best
 DOMAIN-SUFFIX,bil.best

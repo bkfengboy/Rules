@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,zatikov.net,ilook.tv
 DOMAIN-KEYWORD,russtv,ilook.tv
 
 # > bil.best
-DOMAIN-SUFFIX,bil.best
+DOMAIN-SUFFIX,bil.best,bil.best
 IP-CIDR,62.149.6.21/32,bil.best
 
 # > tv.team

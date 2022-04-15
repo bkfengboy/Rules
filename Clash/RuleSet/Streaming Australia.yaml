@@ -3,14 +3,32 @@ DOMAIN,7plus.com.au
 DOMAIN,npc-live-sevennetwork.akamaized.net
 DOMAIN,cdn.7livecloud.io
 
-# NAME: Stan
-DOMAIN,streamcoimg-a.akamaihd.net
-DOMAIN-SUFFIX,stan.com.au
-DOMAIN-KEYWORD,stan
-DOMAIN-SUFFIX,tan.com.au
+# NAME: 9 now
+DOMAIN,nine.com.au
+DOMAIN,9now.com.au
+DOMAIN,edge.api.brightcove.com
+DOMAIN,p-9now.akamaized.net
+DOMAIN,9now-livestreams.akamaized.net
 
 # NAME: 10 play
 DOMAIN,10play.com.au
 DOMAIN,global.ssl.fastly.net
 DOMAIN,net10-livestream-keys.play.cbsi.video
 DOMAIN,d25m2gzplgnf0.cloudfront.net
+
+# NAME: SBS
+DOMAIN-SUFFIX,sbsod.com
+DOMAIN,sbs.com.au
+DOMAIN,videocdn-sbs.akamaized.net
+DOMAIN,sbsvoddai-vh.akamaihd.net
+DOMAIN,sbsvodns-vh.akamaihd.net
+DOMAIN,sbs-live-dai.akamaized.net
+DOMAIN,sbs-live.akamaized.net
+DOMAIN,sbs-live-dai.akamaized.net
+
+# NAME: Stan
+DOMAIN,streamcoimg-a.akamaihd.net
+DOMAIN-SUFFIX,stan.com.au
+DOMAIN-KEYWORD,stan
+DOMAIN-SUFFIX,tan.com.au
+

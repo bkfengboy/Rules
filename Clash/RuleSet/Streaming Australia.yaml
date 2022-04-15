@@ -30,6 +30,10 @@ DOMAIN,global.ssl.fastly.net
 DOMAIN,net10-livestream-keys.play.cbsi.video
 DOMAIN,d25m2gzplgnf0.cloudfront.net
 
+# NAME: ABC
+DOMAIN,abc.net.au
+DOMAIN,abc-iview-mediapackagestreams-2.akamaized.net
+
 # NAME: SBS
 DOMAIN-SUFFIX,sbsod.com
 DOMAIN,sbs.com.au
@@ -48,4 +52,4 @@ DOMAIN-SUFFIX,tan.com.au
 
 # NAME: Others
 DOMAIN-SUFFIX,com.au
-
+DOMAIN-SUFFIX,mjh.nz

@@ -26,7 +26,8 @@ DOMAIN-SUFFIX,yourtv.com.au
 
 # NAME: 10 play
 DOMAIN-SUFFIX,10play.com.au
-DOMAIN,global.ssl.fastly.net
+DOMAIN-SUFFIX,global.ssl.fastly.net
+DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com
 DOMAIN,net10-livestream-keys.play.cbsi.video
 DOMAIN,d25m2gzplgnf0.cloudfront.net
 

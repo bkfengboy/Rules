@@ -1,0 +1,60 @@
+# ilook.tv
+IP-CIDR,194.59.155.0/24,no-resolve
+IP-CIDR,213.183.40.0/24,no-resolve
+IP-CIDR,213.183.42.0/24,no-resolve
+IP-CIDR,213.183.47.0/24,no-resolve
+IP-CIDR,5.182.228.0/24,no-resolve
+IP-CIDR,5.182.229.0/24,no-resolve
+IP-CIDR,5.182.231.0/24,no-resolve
+IP-CIDR,5.188.172.0/24,no-resolve
+IP-CIDR,77.72.19.0/24,no-resolve
+IP-CIDR,77.72.22.0/24,no-resolve
+IP-CIDR,77.72.23.0/24,no-resolve
+IP-CIDR,92.119.88.0/24,no-resolve
+IP-CIDR,92.119.89.0/24,no-resolve
+IP-CIDR,93.189.56.0/24,no-resolve
+DOMAIN-SUFFIX,akciatv.ru
+DOMAIN-SUFFIX,russtv.net
+DOMAIN-SUFFIX,zatikov.net
+DOMAIN-KEYWORD,russtv
+
+# bil.best
+DOMAIN-SUFFIX,ultra-tv.online
+IP-CIDR,62.149.6.21/32,no-resolve
+#tv.team
+DOMAIN-SUFFIX,troya.tv
+DOMAIN-SUFFIX,tv.team
+
+# lightiptv
+DOMAIN-SUFFIX,pp.ru
+IP-CIDR,104.21.234.0/24,no-resolve
+IP-CIDR,104.21.235.0/24,no-resolve
+
+# stalker
+IP-CIDR,188.93.236.0/24,no-resolve
+IP-CIDR,188.93.237.0/24,no-resolve
+IP-CIDR,185.235.167.0/24,no-resolve
+IP-CIDR,185.236.230.0/24,no-resolve
+IP-CIDR,185.191.0.0/16,no-resolve
+IP-CIDR,185.93.2.0/24,no-resolve
+IP-CIDR,185.76.9.0/24,no-resolve
+IP-CIDR,202.102.58.0/24,no-resolve
+IP-CIDR,45.86.190.0/24,no-resolve
+IP-CIDR,45.86.191.0/24,no-resolve
+IP-CIDR,89.187.189.0/24,no-resolve
+IP-CIDR,62.210.0.0/16,no-resolve
+IP-CIDR,185.180.14.0/24,no-resolve
+DOMAIN-KEYWORD,worldtvip
+DOMAIN-SUFFIX,sunmoney.net
+
+# ultraqud
+IP-CIDR,194.120.230.0/24,no-resolve
+IP-CIDR,143.244.58.0/24,no-resolve
+IP-CIDR,122.254.0.0/16,no-resolve
+IP-CIDR,37.77.57.0/24,no-resolve
+IP-CIDR,37.77.58.0/24,no-resolve
+IP-CIDR,45.15.210.0/24,no-resolve
+DOMAIN-SUFFIX,mag.ultraqhd.net
+DOMAIN-SUFFIX,mag.ultraqhd.io
+DOMAIN-SUFFIX,redirect-4k.com
+DOMAIN-SUFFIX,4k-ott.com

@@ -75,6 +75,18 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 
+# > Apple News
+DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
+PROCESS-NAME,News
+USER-AGENT,AppleNews*
+# USER-AGENT,News* // 「今日头条」亦使用此，故不启用
+USER-AGENT,com.apple.news*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+
 # > Star+
 // 此条分流只是让 Star+ 串流时走 US 节点，需搭配 Star+ 相关分流使用
 DOMAIN-SUFFIX,media.starott.com

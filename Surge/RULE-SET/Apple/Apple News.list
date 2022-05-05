@@ -9,3 +9,7 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
+gateway.icloud.com
+
+# > iCloud
+DOMAIN-SUFFIX,gateway.icloud.com

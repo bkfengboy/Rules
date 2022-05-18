@@ -1,0 +1,60 @@
+# > 7 play
+DOMAIN,7plus.com.au,7 play
+DOMAIN,npc-live-sevennetwork.akamaized.net,7 play,7 play
+DOMAIN,cdn.7livecloud.io,7 play
+
+# > 9 now
+DOMAIN,nine.com.au,9 now,9 now
+DOMAIN,9now.com.au,9 now,9 now
+DOMAIN,edge.api.brightcove.com,9 now
+DOMAIN,p-9now.akamaized.net,9 now
+DOMAIN,9now-livestreams.akamaized.net,9 now
+DOMAIN-SUFFIX,9cdn.net,9 now
+DOMAIN-SUFFIX,9nation.com.au,9 now
+DOMAIN-SUFFIX,9news.com.au,9 now
+DOMAIN-SUFFIX,9now.com.au,9 now
+DOMAIN-SUFFIX,freeviewplus.net.au,9 now
+DOMAIN-SUFFIX,mi9.com.au,9 now
+DOMAIN-SUFFIX,mi9cdn.com,9 now
+DOMAIN-SUFFIX,nine.com.au,9 now
+DOMAIN-SUFFIX,nineentertainment.com.au,9 now
+DOMAIN-SUFFIX,nineentertainmentco.com.au,9 now
+DOMAIN-SUFFIX,ninemediaroom.com.au,9 now
+DOMAIN-SUFFIX,ninemsn.com.au,9 now
+DOMAIN-SUFFIX,static9.net.au,9 now
+DOMAIN-SUFFIX,yourtv.com.au,9 now
+
+# > 10 play
+DOMAIN-SUFFIX,10play.com.au,10 play
+DOMAIN-SUFFIX,global.ssl.fastly.net,10 play
+DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com,10 play
+DOMAIN,net10-livestream-keys.play.cbsi.video,10 play
+DOMAIN,net10-livestream.play.cbsi.video,10 play
+DOMAIN,d25m2gzplgnf0.cloudfront.net,10 play
+DOMAIN,deliver.oztam.com.au,10 play
+
+# > ABC
+DOMAIN,abc.net.au,ABC
+DOMAIN,abc-iview-mediapackagestreams-2.akamaized.net,ABC
+
+# > SBS
+DOMAIN-SUFFIX,sbsod.com,SBS
+DOMAIN,sbs.com.au,SBS
+DOMAIN,videocdn-sbs.akamaized.net,SBS,
+DOMAIN,sbsvoddai-vh.akamaihd.net,SBS,
+DOMAIN,sbsvodns-vh.akamaihd.net,SBS
+DOMAIN,sbs-live-dai.akamaized.net,SBS
+DOMAIN,sbs-live.akamaized.net,SBS
+DOMAIN,sbs-live-dai.akamaized.net,SBS
+
+# > Stan
+DOMAIN,streamcoimg-a.akamaihd.net,Stan
+DOMAIN-SUFFIX,stan.com.au,Stan
+DOMAIN,aws.stan.video,Stan
+DOMAIN-KEYWORD,stan,Stan
+DOMAIN-SUFFIX,tan.com.au,Stan
+
+# NAME: Others
+DOMAIN-SUFFIX,com.au,Others
+DOMAIN-SUFFIX,au,Others
+DOMAIN-SUFFIX,mjh.nz,Others

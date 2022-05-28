@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,fridaylogger.com
 DOMAIN,aka01p.akamaized.net
 DOMAIN,aka02p.akamaized.net
+DOMAIN-SUFFIX,4gtv.tv
 
 # > KKBOX
 USER-AGENT,*KKBOX

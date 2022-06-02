@@ -56,6 +56,10 @@ DOMAIN,aws.stan.video
 DOMAIN-KEYWORD,stan
 DOMAIN-SUFFIX,tan.com.au
 
+# NAME: Optus
+DOMAIN-SUFFIX,optus.com.au
+DOMAIN-SUFFIX,optussport.tv
+
 # NAME: Others
 DOMAIN-SUFFIX,com.au
 DOMAIN-SUFFIX,au

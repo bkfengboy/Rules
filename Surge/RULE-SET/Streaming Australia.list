@@ -1,9 +1,10 @@
-# NAME: 7 play
+# NAME: 7 plus
 DOMAIN,7plus.com.au
 DOMAIN,npc-live-sevennetwork.akamaized.net
 DOMAIN,7plus-sevennetwork.akamaized.net
 DOMAIN,seven.demdex.net
 DOMAIN,cdn.7livecloud.io
+
 
 # NAME: 9 now
 DOMAIN,nine.com.au
@@ -33,7 +34,6 @@ DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com
 DOMAIN,net10-livestream-keys.play.cbsi.video
 DOMAIN,net10-livestream.play.cbsi.video
 DOMAIN,d25m2gzplgnf0.cloudfront.net
-DOMAIN,deliver.oztam.com.au
 
 # NAME: ABC
 DOMAIN,abc.net.au
@@ -52,13 +52,14 @@ DOMAIN,sbs-live-dai.akamaized.net
 # NAME: Stan
 DOMAIN,streamcoimg-a.akamaihd.net
 DOMAIN-SUFFIX,stan.com.au
-DOMAIN,aws.stan.video
+DOMAIN-SUFFIX,stan.video
 DOMAIN-KEYWORD,stan
 DOMAIN-SUFFIX,tan.com.au
 
 # NAME: Optus
 DOMAIN-SUFFIX,optus.com.au
 DOMAIN-SUFFIX,optussport.tv
+DOMAIN-KEYWORD,optus
 
 # NAME: Others
 DOMAIN-SUFFIX,com.au

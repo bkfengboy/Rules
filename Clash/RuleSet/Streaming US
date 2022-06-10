@@ -1,0 +1,60 @@
+# NAME: Sling
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,slinginternational.com
+DOMAIN-KEYWORD,sling
+
+# NAME: Tivo
+DOMAIN-SUFFIX,tivo.com
+DOMAIN-SUFFIX,tivoservice.com
+DOMAIN-SUFFIX,evodevicemanager.com
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,adsrvr.org
+ 
+# NAME: FOXPlus
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,foxplus.com
+  
+# NAME: FOX NOW
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+  
+# NAME: FUBOTV
+DOMAIN-SUFFIX,fubo.tv
+DOMAIN-SUFFIX,bleacherreport.com
+DOMAIN-KEYWORD,fubotv
+DOMAIN-KEYWORD,fubo-marketing
+  
+# NAME: CNBC
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN-SUFFIX,nbcudigitaladops.com
+DOMAIN-SUFFIX,nbcuni.com
+
+# NAME: CNN
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+
+#HULU
+DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+PROCESS-NAME,com.hulu.plus

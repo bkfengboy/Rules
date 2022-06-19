@@ -1,1 +1,19 @@
-okko.tv
+# > Streaming Russia
+DOMAIN-KEYWORD,okko
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN,okkotv-live.cdnvideo.ru
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,online.sberbank.ru
+DOMAIN,media.mediavitrina.ru
+DOMAIN,kraken.rambler.ru
+DOMAIN-SUFFIX,tvgateway.ru
+DOMAIN-SUFFIX,ogp.me
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,usedesk.ru
+DOMAIN-SUFFIX,matchtv.ru
+DOMAIN-SUFFIX,matchpremier.ru
+DOMAIN-SUFFIX,match-club.ru
+DOMAIN,sportbox.ruokko.tv

@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,stan.video
 DOMAIN-SUFFIX,tan.com.au
 DOMAIN, awslive01.stan.video
 DOMAIN, awslive02.stan.video
+DOMAIN, live01-stan.akamaized.net
 
 # NAME: Optus
 DOMAIN-SUFFIX,optus.com.au

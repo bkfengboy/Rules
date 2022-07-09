@@ -1,0 +1,50 @@
+# > MytvSUPER
+USER-AGENT,mytv*
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,mytvsuper.com
+
+# > Now E
+DOMAIN-SUFFIX,nowe.com,Now E
+DOMAIN-SUFFIX,nowestatic.com,Now E
+DOMAIN,pccw-cf-epl.akamaized.net,Now E
+DOMAIN-SUFFIX,now.com,Now E
+DOMAIN-SUFFIX,now-tv.com,Now E
+DOMAIN-SUFFIX,viu.tv,Now E
+DOMAIN-KEYWORD,viutv,Now E
+
+# NAME: HBOHK
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
+DOMAIN-SUFFIX,hboasialive.akamaized.net
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
+USER-AGENT,HBO%20GO%20PROD%20HKG*
+
+# > Viu
+// USER-AGENT,Viu*
+DOMAIN-SUFFIX,viu.com
+DOMAIN,pccw-cf-video.akamaized.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,d31rgcmny3inu.cloudfront.net
+
+# Others
+DOMAIN,cdn.hklive.tv
+DOMAIN,cdn.hkyoutv.com
+DOMAIN-SUFFIX,hkanime.com

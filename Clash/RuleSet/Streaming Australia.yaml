@@ -3,8 +3,8 @@ DOMAIN,7plus.com.au
 DOMAIN,npc-live-sevennetwork.akamaized.net
 DOMAIN,7plus-sevennetwork.akamaized.net
 DOMAIN,seven.demdex.net
-DOMAIN,cdn.7livecloud.io
-
+DOMAIN-SUFFIX,cdn.7livecloud.io
+DOMAIN-KEYWORD,cen7ausw1live102
 
 # NAME: 9 now
 DOMAIN,nine.com.au
@@ -54,6 +54,8 @@ DOMAIN,streamcoimg-a.akamaihd.net
 DOMAIN-SUFFIX,stan.com.au
 DOMAIN-SUFFIX,stan.video
 DOMAIN-SUFFIX,tan.com.au
+DOMAIN,live01-stan.akamaized.net
+DOMAIN,live02-stan.akamaized.net
 
 # NAME: Optus
 DOMAIN-SUFFIX,optus.com.au
@@ -71,4 +73,5 @@ DOMAIN-SUFFIX,d21xmla0sqnlu7.cloudfront.net
 
 # NAME: Others
 DOMAIN-SUFFIX,com.au
+DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,mjh.nz

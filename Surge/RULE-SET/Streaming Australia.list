@@ -67,9 +67,10 @@ DOMAIN-KEYWORD,csm-e-ceoptaase
 DOMAIN-KEYWORD,drm-widevine-licensing.axprod.net
 DOMAIN-KEYWORD,optus
 DOMAIN,vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws
-DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io.com
 DOMAIN-SUFFIX,d3rj5p7u4c4icq.cloudfront.net
 DOMAIN-SUFFIX,d21xmla0sqnlu7.cloudfront.net
+DOMAIN-SUFFIX,d27xxe7juh1us6.cloudfront.net
+DOMAIN-SUFFIX,d2nrmg3scmhoaf.cloudfront.net
 
 # NAME: Others
 DOMAIN-SUFFIX,com.au

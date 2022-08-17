@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,4k-ott.com
 IP-CIDR,217.74.0.0/12,no-resolve
 IP-CIDR,102.165.0.0/12,no-resolve
 IP-CIDR,45.153.0.0/12,no-resolve
+IP-CIDR,185.209.0.0/12,no-resolve
 
 # other
 DOMAIN,oraclelondon.frankfwang.me

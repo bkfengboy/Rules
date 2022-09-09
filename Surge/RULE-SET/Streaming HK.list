@@ -44,10 +44,6 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,d31rgcmny3inu.cloudfront.net
 
-# > Setanta streaming
-DOMAIN-SUFFIX,dve-streams.akamaized.net
-DOMAIN-SUFFIX,dice-live-eu.akamaized.net
-
 # Others
 DOMAIN,cdn.hklive.tv
 DOMAIN,cdn.hkyoutv.com

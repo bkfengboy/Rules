@@ -5,6 +5,12 @@ DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 
+# > Ofiii
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-KEYWORD,ofifree
+
+
 # > CATCHPLAY+
 USER-AGENT,CATCHPLAY*
 DOMAIN-SUFFIX,catchplay.com

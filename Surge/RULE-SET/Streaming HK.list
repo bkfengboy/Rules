@@ -45,6 +45,10 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,d31rgcmny3inu.cloudfront.net
 
+# > Hoytv
+DOMAIN-KEYWORD,hoytv
+DOMAIN-KEYWORD,hoy.tv
+
 # Others
 DOMAIN,cdn.hklive.tv
 DOMAIN,cdn.hkyoutv.com

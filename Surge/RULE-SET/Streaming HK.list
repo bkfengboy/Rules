@@ -50,6 +50,6 @@ DOMAIN-KEYWORD,hoytv
 DOMAIN-KEYWORD,hoy.tv
 
 # Others
-DOMAIN,cdn.hklive.tv
+DOMAIN-KEYWORD,hklive
 DOMAIN,cdn.hkyoutv.com
-DOMAIN-SUFFIX,hkanime.com
+DOMAIN-KEYWORD,hkanime

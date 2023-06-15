@@ -38,6 +38,7 @@ DOMAIN,d25m2gzplgnf0.cloudfront.net
 
 # NAME: ABC
 DOMAIN,abc.net.au
+DOMAIN-KEYWORD,abc-iview
 DOMAIN,abc-iview-mediapackagestreams-2.akamaized.net
 
 # NAME: SBS

@@ -9,7 +9,9 @@ DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-KEYWORD,ofifree
-
+DOMAIN-KEYWORD,litvfree
+DOMAIN-KEYWORD,ofiii
+DOMAIN,a1761.dscv.akamai.net
 
 # > CATCHPLAY+
 USER-AGENT,CATCHPLAY*
